@@ -117,3 +117,5 @@ To edit markdown files you have an better alternative which is dillinger. The dr
    5. Navigate to `wiki`>`tiddlers` directory
    6. Select the tiddler you want to edit
 4. Once you  have your "tiddler ready" click `SAVE TO` and select github
+
+(test)
